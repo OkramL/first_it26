@@ -8,3 +8,4 @@ Tunnis õpetajaga koos tehtud skriptid.
 * ```game.py``` Äraarvamise mäng
 * ```listid.py``` Kogu inforamtsioon listidest
 
+Õppimiseks kasuta [Progeõpikut](https://progeopik.cs.ut.ee/).
